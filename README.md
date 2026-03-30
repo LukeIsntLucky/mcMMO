@@ -70,7 +70,7 @@ The typical command used to build mcMMO is: `mvn clean install`
 https://spigot.mcmmo.org for more up to date information.
 
 ## Downloads
-
+test build
 https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
 
 https://polymart.org/resource/mcmmo.727
